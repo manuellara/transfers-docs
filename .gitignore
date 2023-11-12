@@ -1,0 +1,5 @@
+# dev server
+docs/.vitepress/cache/
+
+# production build
+docs/.vitepress/dist/
