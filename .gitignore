@@ -3,3 +3,6 @@ docs/.vitepress/cache/
 
 # production build
 docs/.vitepress/dist/
+
+# node
+node_modules/
