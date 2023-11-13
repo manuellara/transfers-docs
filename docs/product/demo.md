@@ -3,7 +3,6 @@ layout: doc
 outline: deep
 ---
 
-# Features
+# Demo
 
 ![under construction](/under_construction.gif)
-

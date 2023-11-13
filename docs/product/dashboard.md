@@ -3,7 +3,6 @@ layout: doc
 outline: deep
 ---
 
-# Features
+# Dashboard
 
 ![under construction](/under_construction.gif)
-

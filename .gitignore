@@ -6,3 +6,6 @@ docs/.vitepress/dist/
 
 # node
 node_modules/
+
+# random files
+.DS_Store

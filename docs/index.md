@@ -7,29 +7,29 @@ hero:
   text: "Review and approve applications faster"
   tagline: "Modernizing the student transfer process"
   image:
-    light: /assets/undraw-google-docs-light.svg
-    dark: /assets/undraw-google-docs-dark.svg
+    light: /undraw-google-docs-light.svg
+    dark: /undraw-google-docs-dark.svg
     alt: Transfers
   actions:
     - theme: brand
       text: "Get Started"
       link: /introduction/what-is-transfers
     - theme: alt
-      text: "Support"
-      link: https://buymeacoffee.com/manuellara
+      text: "Demo"
+      link: "/product/demo"
 
 features:
   - icon:
-      src: /assets/cloud-server-v1.svg
+      src: /cloud-server-v1.svg
     title: Cloud Based
     details: Accessible from any device with an internet connection
   - icon:
-      src: /assets/code-logo.svg
+      src: /code-logo.svg
     title: Industry Standards
     details: Built using modern technology to make your job as easy as possible
   - icon:
-      src: /assets/cloud-database-logo.svg
-    title: Dashboards
+      src: /cloud-database-logo.svg
+    title: Analytics
     details: Translating data into something you can understand
 ---
 
