@@ -18,16 +18,23 @@ export default defineConfig({
     },
 
     nav: [
-      { text: "Admin", link: "https://github.com/manuellara" },
-      { text: "Applications", link: "https://github.com/manuellara" },
-      { text: "Dashboard", link: "https://github.com/manuellara" },
-      { text: "Links", 
+      { 
+        text: "Apps", 
+        items: [
+          { text: "Admin", link: "https://github.com/manuellara" },
+          { text: "Dashboard", link: "https://github.com/manuellara" },
+          { text: "Submit Application", link: "https://github.com/manuellara" },
+        ]
+      },
+      { 
+        text: "Links", 
         items: [
           { text: "Pricing", link: "https://github.com/manuellara" },
           { text: "Feedback", link: "https://github.com/manuellara" },
+          { text: "Changelog", link: "https://github.com/manuellara" },
           { text: "Certifications", link: "https://github.com/manuellara" },
-          { text: "Submit a ticket", link: "https://github.com/manuellara" },
-          { text: "Knowledge Base", link: "https://github.com/manuellara" },
+          // { text: "Submit a ticket", link: "https://github.com/manuellara" },
+          // { text: "Knowledge Base", link: "https://github.com/manuellara" },
         ]
       },
     ],
@@ -41,12 +48,16 @@ export default defineConfig({
             link: "/introduction/what-is-transfers",
           },
           {
+            text: "How It Works",
+            link: "/introduction/how-it-works",
+          },
+          {
             text: "Features",
             link: "/introduction/features",
           },
           {
-            text: "Customers",
-            link: "/introduction/customers",
+            text: "Districts",
+            link: "/introduction/districts",
           },
         ],
       },
@@ -79,13 +90,14 @@ export default defineConfig({
             link: "/product/dashboard",
           },
           {
-            text: "API",
-            link: "/product/api",
-          },
-          {
             text: "Demo",
             link: "/product/demo",
-          }
+          },
+          {
+            text: "Integrations",
+            link: "/product/integrations",
+          },
+          
         ],
       },
 
@@ -118,5 +130,6 @@ export default defineConfig({
         "https://github.com/manuellara/transfers-docs/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
+
   },
 });

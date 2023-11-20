@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -24,13 +23,17 @@ features:
     title: Cloud Based
     details: Accessible from any device with an internet connection
   - icon:
-      src: /code-logo.svg
-    title: Industry Standards
-    details: Built using modern technology to make your job as easy as possible
+      src: /code.svg
+    title: Modernized
+    details: Built with stability, scalability, and resilience in mind
   - icon:
-      src: /cloud-database-logo.svg
+      src: /cloud-database.svg
     title: Analytics
     details: Translating data into something you can understand
+  # - icon:
+  #     src: /firewall.svg
+  #   title: Secure
+  #   details: Backed by industry certifications to ensure data security 
 ---
 
 

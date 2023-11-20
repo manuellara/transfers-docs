@@ -1,4 +1,4 @@
-# dev server
+# dev server files
 docs/.vitepress/cache/
 
 # production build
@@ -8,4 +8,4 @@ docs/.vitepress/dist/
 node_modules/
 
 # random files
-.DS_Store
+**/.DS_Store
