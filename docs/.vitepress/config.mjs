@@ -2,13 +2,17 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   title: "Transfers",
-  description: "Transfers documentation",
+  description: "Transfers docs",
   head: [
     ['link', { rel: 'icon', href: '/undraw-google-docs-dark.ico' }],
     ['meta', { property: 'og:image', content: '/undraw-google-docs.png' }]
   ],
 
   themeConfig: {
+
+    search: {
+      provider: 'local'
+    },
 
     externalLinkIcon: true,
 

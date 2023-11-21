@@ -36,5 +36,10 @@ features:
   #   details: Backed by industry certifications to ensure data security 
 ---
 
-
+<style>
+  :root {
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #3451b2 50%, #a8b1ff 50%);
+    --vp-home-hero-image-filter: blur(44px);
+  }
+</style>
 
