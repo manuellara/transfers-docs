@@ -5,7 +5,7 @@ outline: deep
 
 # What is Transfers?
 
-**Transfers** is a cloud based SaaS application that aims to modernize the student transfer process. It allows parents to submit applications easily and districts the ability to process them efficiently. Results are then published to a dashboard to help districts make decisions. **Transfers** is built with the best technologies available to make the student transfer process as frictionless as possible.
+**Transfers** is a cloud based SaaS application that aims to modernize the student transfer process. 
 
 ## Why should I use Transfers?
 
@@ -16,11 +16,9 @@ Managing transfer applications can be a pain, especially if your district has li
 - Implementing a standard process for parents and districts to follow
 - Automating data entry into your SIS (Student Information System)
 - Eliminating paper forms and loose emails
-- Providing an analytics dashboard to help your district make decisions (e.g. budgeting, programs, staffing, etc...)
+- Providing analytics to help districts make decisions
 
 ## Return on Investment
-
-Introducing a new tool can be challenging, but the value **Transfers** provides is well worth the growing pains. 
 
 ### Increased ADA
 
@@ -32,5 +30,5 @@ When someone leaves a district (e.g. resign, retire, etc...), they take everythi
 
 ### Analytics 
 
-Collecting and maintaining application data is hard enough on its own - telling a story with it is another realm of difficulty. Data engineering is definitely out of reach for most districts, however, **Transfers** offers this as a courtesy.
+Making data driven decisions is difficult when you don't have the right tools. **Transfers** makes this possible by providing analytics  to help district make better informed decisions when it comes to budgeting, programs, staffing, etc...
 

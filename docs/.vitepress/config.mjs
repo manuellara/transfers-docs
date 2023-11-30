@@ -33,7 +33,7 @@ export default defineConfig({
       { 
         text: "Links", 
         items: [
-          { text: "Pricing", link: "https://github.com/manuellara" },
+          { text: "Pricing", link: "/pricing" },
           { text: "Feedback", link: "https://github.com/manuellara" },
           { text: "Changelog", link: "https://github.com/manuellara" },
           { text: "Certifications", link: "https://github.com/manuellara" },
@@ -97,11 +97,6 @@ export default defineConfig({
             text: "Demo",
             link: "/product/demo",
           },
-          {
-            text: "Integrations",
-            link: "/product/integrations",
-          },
-          
         ],
       },
 
