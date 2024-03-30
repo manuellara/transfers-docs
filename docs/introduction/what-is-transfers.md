@@ -17,16 +17,16 @@ Transfers helps by:
 - Automating data entry into your student information system (SIS)
 - Helping increase average daily attendance (ADA)
 - Eliminating paper forms and loose emails
-- Providing important document transfers (e.g. out of district permit, birth certificate, etc...)
+- Providing important document transfers (e.g. out-of-district permit, birth certificate, etc...)
 
 ## Features
 
 | Feature                               | Description                                                       |
 |---------------------------------------|-------------------------------------------------------------------|
-| Receive Transfer Applications         | Districts can receive student transfer applications               |
-| Issue/Receive Out-Of-District Permits | Districts can issue/receive out-of-district permits               |
-| Send Important Documents              | Submitters can include important documents related to the student |
-| Generate Documents                    | Generate documents maintain local processes                       |
+| Receive transfer applications         | Districts can receive student transfer applications               |
+| Issue/receive out-of-district permits | Districts can issue/receive out-of-district permits               |
+| Send important documents              | Submitters can include important documents related to the student |
+| Generate documents                    | Generate documents maintain local processes                       |
 | SIS write back                        | Sync data between your SIS and Transfers                          |
 
 
