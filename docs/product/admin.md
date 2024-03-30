@@ -3,7 +3,6 @@ layout: doc
 outline: deep
 ---
 
-# Districts
+# Admin
 
 ![under construction](/under_construction.gif)
-

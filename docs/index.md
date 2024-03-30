@@ -11,29 +11,25 @@ hero:
     alt: Transfers
   actions:
     - theme: brand
-      text: "Get Started"
-      link: /introduction/what-is-transfers
+      text: "Districts"
+      link: /districts/getting-started
     - theme: alt
-      text: "Demo"
-      link: "/product/demo"
+      text: "Parents"
+      link: /parents/getting-started
 
 features:
   - icon:
       src: /cloud-server-v1.svg
-    title: Cloud Based
-    details: Accessible from any device with an internet connection
+    title: Cloud Native
+    details: Built in cloud to ensure stability, scalability, and resilience
   - icon:
       src: /code.svg
-    title: Modernized
-    details: Built with stability, scalability, and resilience in mind
+    title: Modern
+    details: Accessible from any device with an internet connection
   - icon:
-      src: /cloud-database.svg
-    title: Analytics
-    details: Translating data into something you can understand
-  # - icon:
-  #     src: /firewall.svg
-  #   title: Secure
-  #   details: Backed by industry certifications to ensure data security 
+      src: /firewall.svg
+    title: Secure
+    details: Industry certifications to maintain data privacy and data security
 ---
 
 <style>

@@ -4,14 +4,13 @@ export default defineConfig({
   title: "Transfers",
   description: "Transfers docs",
   head: [
-    ['link', { rel: 'icon', href: '/undraw-google-docs-dark.ico' }],
-    ['meta', { property: 'og:image', content: '/undraw-google-docs.png' }]
+    ["link", { rel: "icon", href: "/undraw-google-docs-dark.ico" }],
+    ["meta", { property: "og:image", content: "/undraw-google-docs.png" }],
   ],
 
   themeConfig: {
-
     search: {
-      provider: 'local'
+      provider: "local",
     },
 
     externalLinkIcon: true,
@@ -22,24 +21,26 @@ export default defineConfig({
     },
 
     nav: [
-      { 
-        text: "Apps", 
+      {
+        text: "Guide",
+        link: "/introduction/what-is-transfers"
+      },
+      {
+        text: "Apps",
         items: [
           { text: "Admin", link: "https://github.com/manuellara" },
-          { text: "Dashboard", link: "https://github.com/manuellara" },
-          { text: "Submit Application", link: "https://github.com/manuellara" },
-        ]
+          { text: "Submit", link: "https://github.com/manuellara" },
+        ],
       },
-      { 
-        text: "Links", 
+      {
+        text: "Links",
         items: [
           { text: "Pricing", link: "/pricing" },
           { text: "Feedback", link: "https://github.com/manuellara" },
           { text: "Changelog", link: "https://github.com/manuellara" },
-          { text: "Certifications", link: "https://github.com/manuellara" },
+          // { text: "Certifications", link: "https://github.com/manuellara" },
           // { text: "Submit a ticket", link: "https://github.com/manuellara" },
-          // { text: "Knowledge Base", link: "https://github.com/manuellara" },
-        ]
+        ],
       },
     ],
 
@@ -54,14 +55,6 @@ export default defineConfig({
           {
             text: "How It Works",
             link: "/introduction/how-it-works",
-          },
-          {
-            text: "Features",
-            link: "/introduction/features",
-          },
-          {
-            text: "Districts",
-            link: "/introduction/districts",
           },
         ],
       },
@@ -90,12 +83,12 @@ export default defineConfig({
         text: "Product",
         items: [
           {
-            text: "Dashboard",
-            link: "/product/dashboard",
+            text: "Admin",
+            link: "/product/admin",
           },
           {
-            text: "Demo",
-            link: "/product/demo",
+            text: "Submit",
+            link: "/product/application",
           },
         ],
       },
@@ -103,7 +96,7 @@ export default defineConfig({
       {
         text: "Team",
         link: "/team",
-      }
+      },
     ],
 
     socialLinks: [
@@ -111,7 +104,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'By Manuel Lara',
+      message: "K12 SaaS",
       copyright: "Copyright © 2023-present",
     },
 
@@ -122,6 +115,5 @@ export default defineConfig({
         "https://github.com/manuellara/transfers-docs/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
-
   },
 });
