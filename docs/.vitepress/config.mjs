@@ -88,7 +88,7 @@ export default defineConfig({
           },
           {
             text: "Submit",
-            link: "/product/application",
+            link: "/product/submit",
           },
         ],
       },
