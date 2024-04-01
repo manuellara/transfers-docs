@@ -14,8 +14,8 @@ hero:
       text: "Districts"
       link: /districts/getting-started
     - theme: alt
-      text: "Parents"
-      link: /parents/getting-started
+      text: "Submitters"
+      link: /submitters/getting-started
 
 features:
   - icon:
@@ -29,7 +29,7 @@ features:
   - icon:
       src: /firewall.svg
     title: Secure
-    details: Industry certifications to maintain data privacy and data security
+    details: Industry certifications ensure data privacy and security
 ---
 
 <style>

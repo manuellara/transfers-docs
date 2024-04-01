@@ -9,15 +9,15 @@ Transfers is [SaaS](https://www.cloudflare.com/learning/cloud/what-is-saas/) app
 
 ## Why?
 
-Managing transfer applications can be tough, especially if your district has limited resources and/or no documented processes.
+As a district, managing transfer applications can be tough. Limited resources, time constraints, and no documented processes can make a simple process very complex.
 
 Transfers helps by:
 
-- Creating the process for parents and districts to follow
+- Creating the process for  districts and submitters to follow
 - Automating data entry into your student information system (SIS)
 - Helping increase average daily attendance (ADA)
 - Eliminating paper forms and loose emails
-- Providing important document transfers (e.g. out-of-district permit, birth certificate, etc...)
+- Providing document transfers (e.g. out-of-district permit, transcripts, discipline reports, birth certificate, etc...)
 
 ## Features
 
