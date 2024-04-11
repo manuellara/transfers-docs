@@ -97,6 +97,11 @@ export default defineConfig({
         text: "Team",
         link: "/team",
       },
+
+      {
+        text: "Pricing",
+        link: "/pricing",
+      },
     ],
 
     socialLinks: [
@@ -106,6 +111,10 @@ export default defineConfig({
         },
         link: "https://github.com/manuellara",
       },
+      {
+        icon: 'slack',
+        link: "https://github.com/manuellara",
+      }
     ],
 
     footer: {

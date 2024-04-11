@@ -23,10 +23,10 @@ Transfers helps by:
 
 | Feature                               | Description                                                       |
 |---------------------------------------|-------------------------------------------------------------------|
-| Receive transfer applications         | Districts can receive student transfer applications               |
-| Issue/receive out-of-district permits | Districts can issue/receive out-of-district permits               |
+| Receive student transfer applications | Districts can receive student transfer applications               |
+| Issue out-of-district permits         | Districts can issue out-of-district permits                       |
 | Send important documents              | Submitters can include important documents related to the student |
-| Generate documents                    | Generate documents maintain local processes                       |
+| Generate approval/denial letters      | Generate documentation to maintain local processes                |
 | SIS write back                        | Sync data between your SIS and Transfers                          |
 
 

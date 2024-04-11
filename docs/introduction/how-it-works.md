@@ -5,8 +5,4 @@ outline: deep
 
 # How It works
 
-## General process
-
-## District
-
-## Submitter
+![under construction](/under_construction.gif)
