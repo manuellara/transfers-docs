@@ -20,8 +20,8 @@ hero:
 features:
   - icon:
       src: /cloud-server-v1.svg
-    title: Cloud Native
-    details: Built in the cloud to ensure stability, scalability, and resilience
+    title: Simple
+    details: Deployed in the cloud to ensure stability, scalability, and resilience
   - icon:
       src: /code.svg
     title: Modern
@@ -29,7 +29,7 @@ features:
   - icon:
       src: /firewall.svg
     title: Secure
-    details: Industry certifications to ensure data privacy and security
+    details: Industry certifications ensure data privacy and security
 ---
 
 <style>
